@@ -1,6 +1,6 @@
-# Layzi laba 6
-### *variant : 67121*
+# Layzi laba 7
+### *variant : 55998*
 _____________________________________________
-![GitHub Logo](/task/png.png)
+![GitHub Logo](/task/..png)
 
 
